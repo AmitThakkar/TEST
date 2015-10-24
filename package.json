@@ -8,6 +8,7 @@
     },
     "devDependencies": {},
     "scripts": {
+        "start": "node --harmony_proxies node_modules/api-client/bin/api-client",
         "test": "echo \"Error: no test specified\" && exit 1"
     },
     "repository": {
