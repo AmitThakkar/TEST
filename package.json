@@ -1,0 +1,27 @@
+{
+    "name": "test",
+    "version": "0.0.1",
+    "description": "This is test app to test Api-Client",
+    "main": "node_modules/api-client/bin/api-client",
+    "dependencies": {
+        "api-client": "git+https://github.com/AmitThakkar/Api-Client.git"
+    },
+    "devDependencies": {},
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/AmitThakkar/TEST.git"
+    },
+    "keywords": [
+        "API-CLIENT",
+        "TEST"
+    ],
+    "author": "Amit Thakkar",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/AmitThakkar/TEST/issues"
+    },
+    "homepage": "https://github.com/AmitThakkar/TEST#readme"
+}
